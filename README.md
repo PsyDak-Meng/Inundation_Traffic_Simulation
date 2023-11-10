@@ -1,12 +1,12 @@
-# CSE6730-Project
+# CSE-6730-Modeling and Simulation  @ GaTech
 
-This is the READMME for CSE6730 Project Team 14. Our team members are: Cheting Meng, Hana Herndon, 
-Xiyu Pan, Yuchen Wang, Zefang Chen
+Team members are: Cheting Meng, Hana Herndon, Xiyu Pan, Yuchen Wang, Zefang Chen.<br>
 
-Our group intends to conduct further research on traffic modeling and simulation, with a specific focus
-on the impact of flooding on the roadway system. By employing numerical analysis, this study aims to
+Our group conducts further research on traffic modeling and simulation, with a specific focus
+on the impact of flooding on the roadway system. By employing numerical analysis, this study
 uncover new understandings of the system’s behaviors during flooding, devise optimization insights, and
-help increase the roadway system’s overall resilience.
+help increase the roadway system’s overall resilience.<br>
+>Keywords:  Agent based modeling, Djikistra Algorithm 
 
 ![image](https://github.com/PsyDak-Meng/Inundation_Traffic_Simulation/assets/105434864/114cdc7e-441a-4174-b835-369186187ecf)
 
